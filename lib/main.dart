@@ -1,4 +1,4 @@
-import 'package:eadta/authServices.dart';
+import 'package:eadta/services/authServices.dart';
 import 'package:eadta/services/localStorageServices.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
