@@ -83,8 +83,7 @@ It supports both **Web** and Android (APK) platforms.
 
 - Name entered at launch uniquely identifies a user.
 - Only one user logs in per device/session at a time.
-- No cloud sync — all data is device-local and username-scoped.
-- The “On Leave” status is optional and can be toggled manually from history (bonus feature).
+- No cloud sync all data is device-local and username-scoped.
 - Error simulation is for debug/testing only.
 
 ---
